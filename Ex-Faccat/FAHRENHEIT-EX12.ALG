@@ -14,6 +14,6 @@ Inicio
 escreval("coloque a temperatura em graus fahrenheit:")
 leia(grausfrh)
 grauscel<-((grausfrh-32)/9)*5
-escreva("isso são ",grauscel, " graus celsius")
+escreva("isso equivale a ",grauscel, " graus celsius")
 
 Fimalgoritmo
